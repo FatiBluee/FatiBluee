@@ -55,15 +55,6 @@ Durante este proceso estoy estudiando:
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql\&logoColor=white)
 
----
-
-## 📈 Estadísticas de GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatiBluee&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatiBluee&layout=compact\&theme=tokyonight)
-
-
 <!--
 **FatiBluee/FatiBluee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
