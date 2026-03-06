@@ -59,9 +59,9 @@ Durante este proceso estoy estudiando:
 
 ## 📈 Estadísticas de GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatiBluee\&show_icons=true\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatiBluee&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatiBluee\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatiBluee&layout=compact\&theme=tokyonight)
 
 
 <!--
